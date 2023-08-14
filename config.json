@@ -1,15 +1,17 @@
 {
     "debug": false,
-    "name": "Max Mustermann",
-    "email": "max.mustermann@domain.com",
-    "phone": "0176 55555555",
-    "takeSurvey": true,
+    "name": "Quang Anh Dang",
+    "email": "qa.dang@outlook.de",
+    "phone": "015906700374",
+    "takeSurvey": false,
     "note": "",
-    "service": "Anmeldung einer Wohnung",
-    "allLocations": true,
+    "service": "Führerschein - Internationalen Führerschein beantragen",
+    "allLocations": false,
     "locations": [
-        "Bürgeramt Rathaus Neukölln",
-        "Bürgeramt Rathaus Neukölln - Vorzugstermine"
+        "Bürgeramt Prenzlauer Berg",
+        "Bürgeramt Prenzlauer Berg - Vorzugstermine",
+        "Bürgeramt Weißensee",
+        "Bürgeramt Weißensee - Vorzugstermine"
     ],
     "earliestDate": "1970-01-01 GMT",
     "latestDate": "2069-01-01 GMT",
