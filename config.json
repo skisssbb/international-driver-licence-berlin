@@ -18,6 +18,6 @@
     "earliestTime": "05:00 GMT",
     "latestTime": "18:00 GMT",
     "concurrency": 3,
-    "waitSeconds": 120,
+    "waitSeconds": 240,
     "coolOffSeconds": 600
 }

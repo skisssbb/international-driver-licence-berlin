@@ -64,6 +64,7 @@ async function bookTermin() {
       headless: !config.debug,
       slowMo: config.debug ? 500 : undefined,
       args: browserArgs,
+      executablePath: "/usr/bin/chromium-browser",
     });
 
     const dateURLs = await withPage(browser)(async (page) => {
